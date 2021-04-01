@@ -1,0 +1,7 @@
+.gradle
+.idea
+.vscode
+/workdir
+/build
+/out
+/test

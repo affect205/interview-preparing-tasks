@@ -1,0 +1,5 @@
+rootProject.name = 'kotlin-examples'
+
+include 'java-core'
+include 'kotlin-examples'
+

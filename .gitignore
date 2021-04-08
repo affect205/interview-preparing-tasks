@@ -1,6 +1,7 @@
 .gradle
 .idea
 .vscode
+build
 /workdir
 /build
 /out
